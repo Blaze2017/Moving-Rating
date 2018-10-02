@@ -1,2 +1,2 @@
 # Moving-Rating
-Automatic moving ratings for customized movie recommendations system, supported by Self Organization Map and Auto Encoder. 
+Automatic moving ratings for customized movie recommendations system, supported by Boltzmann Machine and Auto Encoder. 
